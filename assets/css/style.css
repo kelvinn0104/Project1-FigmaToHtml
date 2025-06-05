@@ -17,7 +17,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-/* ===================common===================== */
+/* =================== common ===================== */
 a {
   text-decoration: none;
 }
@@ -47,7 +47,7 @@ a {
   margin-right: auto;
 }
 
-/* =====================header==================== */
+/* ===================== header ==================== */
 .header {
   background-color: #faf5ea;
 }
@@ -106,7 +106,7 @@ a {
   margin-left: 49px;
 }
 
-/* ===================hero===================== */
+/* =================== hero ===================== */
 .hero {
   padding-top: 56px 0 65px;
   background-color: #faf5ea;
@@ -116,7 +116,7 @@ a {
   display: flex;
 }
 
-/* ===================hero left===================== */
+/* =================== hero left ===================== */
 .hero .media-block {
   position: relative;
   width: 48%;
@@ -179,12 +179,11 @@ a {
 .hero-summary .tittle {
   color: #171100;
   font-size: 1.8rem; /* 18px */
-  font-style: normal;
   font-weight: 600;
   line-height: 1.67; /* 166.667% */
 }
 
-/* ===================hero right===================== */
+/* =================== hero right ===================== */
 
 .hero .content-block {
   width: 52%;
@@ -268,3 +267,5 @@ a {
 .hero .stats strong:nth-child(2) {
   margin-left: 28px;
 }
+
+/* =================== popular ===================== */
